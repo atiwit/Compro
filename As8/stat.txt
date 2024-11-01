@@ -1,0 +1,3 @@
+Average score is 6.
+Miniminum score is 4.
+Maximinum score is 8.
